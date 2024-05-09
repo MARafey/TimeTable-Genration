@@ -1,0 +1,34 @@
+Course,Type,Section,Section-Strength,Professor,First-lecture-day,First-lecture-timeslot,First-lecture-room,First-lecture-room-size,Second-lecture-day,Second-lecture-timeslot,Second_lecture-room,Second-lecture-roomSize
+LA,theory,G,56,Usman Rashid,Thursday,8:30-9:50,A-303,120,Friday,10:05-11:25,B-201,60
+OS,lab,Z,43,Sana Razzaq,Monday,10:05-11:25,B-201,60,Friday,1:15-2:30,B-201,60
+PDC,theory,A,112,Adil Rehman,Monday,11:40-1:00,A-303,120,Tuesday,1:15-2:30,C-101,120
+Numerical Computing,theory,A,50,Shams Almas,Tuesday,1:15-2:30,B-201,60,Tuesday,10:05-11:25,C-101,120
+Data Structures,lab,B,110,Urooj Ghani,Tuesday,11:40-1:00,C-303,60,Thursday,11:40-1:00,C-101,120
+Analysis of Algorithms,theory,C,47,Owais Idrees,Monday,2:45-4:05,C-303,60,Thursday,8:30-9:50,B-201,60
+Differential Equations,theory,G,97,Hamda Khan,Monday,1:15-2:30,C-303,60,Thursday,2:45-4:05,B-201,60
+Software Enginnering,theory,C,49,Sidra Khalid,Wednesday,8:30-9:50,B-201,120,Thursday,1:15-2:30,C-401,60
+Theoretical Business Writing,theory,Z,89,Tehreem Wali,Wednesday,10:05-11:25,C-303,120,Wednesday,11:40-1:00,C-401,60
+Object Oriented Programming,lab,D,57,Pir Sami-UllAh-Shah,Wednesday,10:05-11:25,C-401,60,Wednesday,8:30-9:50,C-401,60
+Applied Physics,theory,Z,59,Hamda Khan,Wednesday,1:15-2:30,B-201,60,Friday,1:15-2:30,A-303,120
+Programming Fundamentals,lab,D,100,Sana Razzaq,Friday,10:05-11:25,B-201,60,Friday,10:05-11:25,A-303,120
+English Comprehension,theory,C,57,Tehreem Wali,Wednesday,1:15-2:30,C-401,60,Friday,2:45-4:05,C-401,60
+Communication Presentation Skills,lab,B,89,Tehreem Wali,Monday,8:30-9:50,C-303,60,Wednesday,1:15-2:30,A-303,120
+Database Systems,lab,D,78,Noor-ul-Ain,Monday,11:40-1:00,C-101,60,Monday,1:15-2:30,C-401,60
+Software for Mobile Devices,theory,B,120,Noor-ul-Ain,Monday,11:40-1:00,C-101,120,Thursday,1:15-2:30,B-201,60
+Artifical Intelligence,lab,C,78,Owais Idrees,Thursday,2:45-4:05,A-303,60,Friday,11:40-1:00,C-401,60
+MLOPS,theory,D,100,Pir Sami-UllAh-Shah,Friday,2:45-4:05,C-303,60,Monday,10:05-11:25,B-201,60
+DLD,lab,B,78,Shams Almas,Monday,8:30-9:50,B-201,60,Tuesday,8:30-9:50,B-201,60
+COAL,lab,B,101,Shams Almas,Monday,8:30-9:50,A-303,120,Tuesday,8:30-9:50,C-401,60
+Analysis of Algorithms,theory,D,59,Noor-ul-Ain,Tuesday,2:45-4:05,C-303,60,Wednesday,2:45-4:05,A-303,120
+LA,theory,Z,54,Hamda Khan,Wednesday,11:40-1:00,C-404,60,Friday,11:40-1:00,C-404,60
+Applied Physics,theory,A,79,Shams Almas,Tuesday,8:30-9:50,C-303,60,Thursday,8:30-9:50,C-303,60
+Object Oriented Programming,lab,A,60,Noor-ul-Ain,Monday,2:45-4:05,B-201,60,Wednesday,2:45-4:05,B-201,60
+Object Oriented Programming,lab,C,50,Shams Almas,Tuesday,11:40-1:00,C-404,60,Wednesday,2:45-4:05,C-404,60
+NLP,theory,C,68,Mehreen Alam,Tuesday,11:40-1:00,C-404,60,Thursday,8:30-9:50,A-303,120
+NLP,theory,D,110,Mehreen Alam,Monday,11:40-1:00,C-404,60,Wednesday,8:30-9:50,A-303,120
+NLP,theory,A,100,Mehreen Alam,Tuesday,2:45-4:05,B-201,60,Wednesday,8:30-9:50,C-401,60
+Theory of Automata,theory,B,50,Mehreen Alam,Wednesday,11:40-1:00,A-303,120,Friday,11:40-1:00,A-303,120
+NLP,theory,B,56,Mehreen Alam,Friday,11:40-1:00,A-303,120,Friday,11:40-1:00,B-201,60
+Machine Learning,theory,C,110,Mehreen Alam,Monday,2:45-4:05,C-101,120,Tuesday,2:45-4:05,C-101,120
+MLOPS,theory,Z,60,Mehreen Alam,Wednesday,11:40-1:00,A-303,120,Friday,11:40-1:00,A-303,120
+MLOPS,theory,B,50,Pir Sami-UllAh-Shah,Wednesday,11:40-1:00,B-201,60,Friday,11:40-1:00,B-201,60
